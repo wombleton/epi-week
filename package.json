@@ -1,0 +1,19 @@
+{
+  "name": "epi-week",
+  "description": "Calculates the epidemiological week for a given date. Also known as the CDC week.",
+  "keywords": ["epidemiological", "week", "epi", "cdc"],
+  "author": {
+    "name": "Rowan Crawford",
+    "email": "wombleton@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wombleton/epi-week"
+  },
+  "version": "0.0.1",
+  "dependencies": { },
+  "devDependencies": {
+    "should": "latest",
+    "vows": "latest"
+  }
+}
