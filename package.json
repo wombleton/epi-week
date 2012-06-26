@@ -1,6 +1,6 @@
 {
   "name": "epi-week",
-  "description": "Calculates the epidemiological week for a given date. Also known as the CDC week.",
+  "description": "Calculates the epidemiological week for a given date. Also known as the epi week or CDC week.",
   "keywords": ["epidemiological", "week", "epi", "cdc"],
   "author": {
     "name": "Rowan Crawford",
