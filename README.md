@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/wombleton/epi-week.png)](http://travis-ci.org/wombleton/epi-week)
 epi-week
 ======
 
